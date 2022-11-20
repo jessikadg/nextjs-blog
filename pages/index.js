@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
           I created this small project in NextJS, a framework for React,
           displaying a couple blog posts which are generated automatically from
           a folder with .md files. Feel free to check the code for this project
-          on <a href="https://github.com/jessikadg/nextjs">my Git Repo</a>
+          on <a href="https://github.com/jessikadg/nextjs-blog">my Git Repo</a>
         </p>
         <p>
           This project was done by following this{" "}
