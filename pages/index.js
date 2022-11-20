@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi! I'm Jess, a Frontend Engineer specialised in Web applications.
+          Hi! I'm Jess, a Frontend Engineer based in the Netherlands.
           React, Typescript and NextJS are my main areas currently, but I have
           also worked with many other frameworks, Content Management Systems and
           libraries.
