@@ -45,8 +45,8 @@ export default function Layout({ children, home }) {
                 priority
                 src="/images/propic.jpeg"
                 className={utilStyles.borderCircle}
-                height={108}
-                width={108}
+                height={107}
+                width={107}
                 alt=""
               />
             </Link>
