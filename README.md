@@ -1,5 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
 Hi! I'm Jess, a Frontend Engineer specialised in Web applications.
 React, Typescript and NextJS are my main areas currently, but I have
 also worked with many other frameworks, Content Management Systems and
